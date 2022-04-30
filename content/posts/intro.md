@@ -1,7 +1,12 @@
 ---
-title: "Mis expectativas"
+title: "Pluggins de Visual Studio Code"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Pluggins que no te pueden faltar'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Mis pluggins de cajón son:
+  - Prettier
+  - EsLint
+  - Git Lens
+  - Better Comments
+  - align
